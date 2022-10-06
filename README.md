@@ -1,1 +1,0 @@
-# Real-time-ASL-digits-recognition-software
